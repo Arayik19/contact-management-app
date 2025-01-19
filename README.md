@@ -27,7 +27,7 @@ Follow these steps to set up and run the project locally:
 
 ### 1. Clone Project
 
-- Clone project using
+Clone project using
 
 ```bash
 
