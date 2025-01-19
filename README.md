@@ -53,7 +53,7 @@ npm  install
 ```
   
 
-### 3. Start the Development Server
+### 2. Start the app
 
   
 
@@ -86,6 +86,10 @@ The following scripts are available:
 -  `start:client`: Runs only client side of the app (not functional).
 
 -  `start:server`: Runs only server side of the app.
+
+## Mock Server
+
+- There is a db folder located in the root of the project, with db.json inside it, which json-server uses for mock API's. 
   
 
 ## Project Structure
