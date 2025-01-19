@@ -1,0 +1,1 @@
+export { default as useContactsContext } from './use-contacts-context';
